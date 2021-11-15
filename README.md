@@ -8,7 +8,6 @@ GoBarber is a service scheduling platform for barbershop or beauty salon owners.
 
 ## :gear: How to start?
 ```bash
-  $ cd backend
 
   $ yarn install
 
